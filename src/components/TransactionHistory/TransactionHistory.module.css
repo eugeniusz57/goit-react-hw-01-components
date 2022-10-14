@@ -1,0 +1,27 @@
+
+
+.transactionHistory{
+    width: 360px;
+    text-align: center;
+    box-shadow: inset;
+    border-radius: 10px;
+    margin: 0 auto;
+    box-shadow: 8px 8px 24px -12px rgba(66, 68, 90, 1);
+    overflow:hidden;
+    font-size: 20px;
+}
+th, td {
+    padding: 15px;
+    border-bottom: 1px solid #ddd;
+  }
+
+  tr:nth-child(even){background-color: rgb(22, 236, 243);}
+  tr:nth-child(odd){background-color: rgba(22, 236, 243, 0.493);}
+
+  tr:hover {background-color: coral;}
+
+  thead{
+    background-color: rgb(60, 19, 155);
+    color: #fff;
+  }
+
