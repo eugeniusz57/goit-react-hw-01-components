@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/eugeniusz57/goit-react-hw-01-components/static/css/main.f3647252.css",
+    "main.js": "/eugeniusz57/goit-react-hw-01-components/static/js/main.8a1a7ae7.js",
+    "index.html": "/eugeniusz57/goit-react-hw-01-components/index.html",
+    "main.f3647252.css.map": "/eugeniusz57/goit-react-hw-01-components/static/css/main.f3647252.css.map",
+    "main.8a1a7ae7.js.map": "/eugeniusz57/goit-react-hw-01-components/static/js/main.8a1a7ae7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3647252.css",
+    "static/js/main.8a1a7ae7.js"
+  ]
+}
