@@ -21,5 +21,23 @@ padding: 0;
 }
 
 
+.item {
+    display: flex;
+    flex-direction: column;
+    height: 50px;
+    padding: 10px;
+    border: 1px solid black;
+    width: 60px;
+    }
+
+.percentage {
+    color: black;
+    font-size: 24px;
+
+}
+
+.label {
+font-size: 14px;
+}
 
 
